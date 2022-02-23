@@ -1,0 +1,279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good counsel to be had at a cheap rate Wherein is contained many excellent matters which are very needful to be had in consideration amongst all sorts of people that are now living in England, Scotland, Wales and Ireland. Note it well, and refuse not good counsell. Thou that to read this title doth begin, turn over leaf and see what is within.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41400</idno>
+            <idno type="STC">Wing G1041B</idno>
+            <idno type="STC">ESTC R221247</idno>
+            <idno type="EEBO-CITATION">99832582</idno>
+            <idno type="PROQUEST">99832582</idno>
+            <idno type="VID">37056</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41400)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37056)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2146:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good counsel to be had at a cheap rate Wherein is contained many excellent matters which are very needful to be had in consideration amongst all sorts of people that are now living in England, Scotland, Wales and Ireland. Note it well, and refuse not good counsell. Thou that to read this title doth begin, turn over leaf and see what is within.</title>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Gilbertson at the sign of the Bible in Gilt spur-street,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37056:1" rendition="simple:additions"/>
+            <p>Good Counſel To be had at a Cheap RATE.</p>
+            <p>Wherein is contained many excellent matters which are very needful to be had in conſideration amongſt all ſorts of people that are now living in <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland, Wales</hi> and <hi>IRELAND.</hi>
+            </p>
+            <p>Note it well, and refuſe not Good Counſell.</p>
+            <q>
+               <bibl>
+                  <hi>Rom. 11.33, 34.</hi>
+               </bibl>
+               <p>O the depth of the Riches both of the wiſe<g ref="char:EOLhyphen"/>dome and knowledge of God, how un<g ref="char:EOLhyphen"/>ſearchable are his judgements, and his wayes paſt finding out.</p>
+               <p>For who hath known the mind of the Lord, or who hath been his Counſeller?</p>
+            </q>
+            <q>
+               <l>Thou that to read this Title doth begin,</l>
+               <l>Turn over leaf and ſee what is within.</l>
+            </q>
+            <p>Printed for <hi>W. Gilbertſon</hi> at the ſign of the Bible in Gilt ſpur-ſtreet, 1663.</p>
+            <pb facs="tcp:37056:2" rendition="simple:additions"/>
+            <pb facs="tcp:37056:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37056:3"/>
+            <pb facs="tcp:37056:3" rendition="simple:additions"/>
+            <head>To the READER.</head>
+            <lg>
+               <l>IF thou deſireſt good counſel for to learn,</l>
+               <l>beſtow ſome time this little Book to read,</l>
+               <l>Here good from bad with eaſe you may diſcern,</l>
+               <l>if in thy reading thou doſt take good heed.</l>
+               <l>This Book ſuch excellent vertues doth contain,</l>
+               <l>Hardly the like's in all the world again.</l>
+            </lg>
+            <lg>
+               <l>It ſhews how firſt of all the world began,</l>
+               <l>which wondrous matter is by Scripture provd,</l>
+               <l>It ſhews why and wherefore the Lord made man</l>
+               <l>and being made, how dearly God him lov'd;</l>
+               <l>It ſhews of what mans ſoul was made at firſt,</l>
+               <l>And how God breath'd into the corps of duſt.</l>
+            </lg>
+            <lg>
+               <l>Alſo good counſel here is laid up in ſtore,</l>
+               <l>of which moſt men are now in extream need,</l>
+               <l>Let every one make trial now therefore,</l>
+               <l>the more you take the better you may ſpeed.</l>
+               <l>If friends and kinsfolks do forſake &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eave thee,</l>
+               <l>Good counſel is a friend will ne'r deceive thee.</l>
+            </lg>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:37056:4"/>
+            <head>THE AVTHOR, To the READER.</head>
+            <l>SPare not my Book,</l>
+            <l>to tell whats to be done,</l>
+            <l>Flatter no man</l>
+            <l>but ſound inſtruction give.</l>
+            <l>Teach all men how</l>
+            <l>Gods anger they may ſhun.</l>
+            <l>And in a conſcionable</l>
+            <l>way to live,</l>
+            <l>Speak truth to all</l>
+            <l>theres no man wil thee blame,</l>
+            <l>But highly will commend thee</l>
+            <l>for the ſame.</l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37056:4"/>
+            <head>Dear friends, the beginning of my <hi>Bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k</hi> is of <hi>Matters concerning the beginning of the WORLD,</hi> which if you will be pleaſed to peruſe, and take good notice of it, may through Gods bleſſing yield and procur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſolation to the ſoul, ſatisfaction to the mind, and comfort to the body: and thus it begins.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>N the beginning GOD crea<g ref="char:EOLhyphen"/>ted the Heaven &amp; the Earth <hi>Gen.</hi> 1.1. And the Earth was without Forme, and void and Darkneſs was up<g ref="char:EOLhyphen"/>on the face of the deep and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> GOD moved on the ſac<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:37056:5"/> the waters,</hi> and ſaid, Let there be Light, and there was Light. And God ſaw the Light that it was good. And God divided the Light from the darkneſſe. And God called the Light <hi>Day,</hi> and the Darkneſs he called <hi>Night,</hi> and the evening and the morning was the firſt day, no it follows in the fifth verſe.</p>
+            <p>The ſecond day God made the firmament, and divided the waters from the dry Land, and he called the Firmament <hi>Heaven,</hi> as it is in the <hi>8</hi> verſe of the ſame Chapter.</p>
+            <p>The third day God having divided the wa<g ref="char:EOLhyphen"/>ter, God made the Earth, that it ſhould bring forth Graſſe, and the Trées that they ſhould b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing forth fruit whoſe ſeed was in it ſelf; and God ſaw that all that was done was good.</p>
+            <p>The fourth Day God made the two great Luminaries or Lights, which are called the <hi>Sun</hi> and the <hi>Moon.</hi> The great Light he ap<g ref="char:EOLhyphen"/>pointed to rule by day, and the leſſer by night. He made the ſtars alſo, and placed them in the Firmament of heaven, to give light upon the earth, and to rule over the day, and over the night, that it was good.</p>
+            <p>The fifth day God made the fiſhes of the ſea, the Fowls of the air; the Beaſts of the earth,
+<pb n="3" facs="tcp:37056:5"/> and every créeping worm and Creature, that was then upon the ground, and God ſaw that it was good, <hi>ver. 25.</hi> but all this while man was not yet made. Then God the Father ſaid, as we may conceive, to God the Son and the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, <hi>Let us make man in our own Image, after our own likeneſs, Gen 1.26.</hi> and ſo uhen the ſixth day God created man, in his own I<g ref="char:EOLhyphen"/>mage and likeneſs created he them M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Female.</p>
+            <p>Moreover, when the Lord had made man in that goodly form and faſhion of his own Like<g ref="char:EOLhyphen"/>neſs, he loved him, and took ſuch affection to him, that he made him Lord and ruler over all that he had made before, both of the Fiſhes of the Sea, the Fowls of the Air, the Beaſts of the field and the like. And thus dear friends, have I expreſſed the manner of the beginning of the world, according as it was ſet down by <hi>Moſes</hi> the Pen-man of the holy Ghoſt.</p>
+            <p>And now let us draw into conſideration, to know wherfore God made man, why thus cer<g ref="char:EOLhyphen"/>tainly it is to be believed, that as God made all other Creatures to ſerve and obey man, ſo he made man to obey his Lord and Maſter.</p>
+            <p>Therefore my counſel is this, that every man and every Woman that is living and breathing upon the face of the Earth, may
+<pb n="4" facs="tcp:37056:6"/> with unfeigned hearts, and with all reverence and humility lift up their hands and eyes to<g ref="char:EOLhyphen"/>ward heaven, where Gods throne is, and ren<g ref="char:EOLhyphen"/>der him thanks for the manifold and number<g ref="char:EOLhyphen"/>leſs gifts that he hath already beſtowed upon us, and to praiſe his Name for the Bleſſings which we enjoy at this preſent time; and with<g ref="char:EOLhyphen"/>al, to make our continu <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prayers and ſuppli<g ref="char:EOLhyphen"/>cations unto the Lord God of heaven &amp; earth, that he will never be unmindfull of no, and let his bleſſings be part from us, while the Sun, Moon and Stars give ligh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill the whole world ſhall be diſſolved. Furthermore we are to conſider, that when God created man, be formed him of the duſt of the earth, and brea<g ref="char:EOLhyphen"/>thed in his noſtrils the breath of life, <hi>and man became a living ſoul, Gen. 2.7.</hi>
+            </p>
+            <p>Here is a plain and caſte rule whereby to know what the Soule of man is, for before that the LORD had breathed into him the breath of life, man was not ſaid to be a living ſoul, but after God had breathed in him the breath of life, man became a living ſoul; by which we may aſſure our ſelves, that the ſoul of man is the breath of God in part, ano<g ref="char:EOLhyphen"/>ther thing to be conſidered, felloweth, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s it is, When God created Man he made him two ears to hear, two eyes to ſée, two
+<pb n="5" facs="tcp:37056:6"/> hands to work, two féet to walk, or go upon: but one Soul, and that Soul of man is of more value than ten thouſand Worlds. Therefore my counſell is to every one that they have a great care of that precious Iewell which is held at ſo high a rate; I mean the Soule of man, it is the breath of God, therefore kéep it ſafe. It is that which preſerves thy bodies life, whilſt thou liv'ſt on Earth; therefore uſe it well, it is that which our Lord and Saviour Ieſus Chriſt ſhed his moſt precious blood to ſave us; therefore take héed thou loſe it not. In a word, the Soul is that part of man and woman that firſt goes to Heaven, if ever they come there; therefore remember what is ſaid and bear it in mind unto your lives end.</p>
+            <p>Thus having in ſmall time laid open part of my great purpoſes, I will with ſpéed break off from my former diſcourſe, and haſten the finiſhing of the reſt of my exerciſes, which is called, <hi>Good Counſell,</hi> which are ſeverall yet all very uſeful and neceſſary: I doubt not but that they will give good content to them that will either read or hear them: and firſt of all I ſhall begin with Conſcience.</p>
+            <p>A clear Conſcience ſaid to be a <hi>continuall <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt</hi> and ſo indéed it may very well be called, and ten times happy is that man or woman,
+<pb n="6" facs="tcp:37056:7"/> that hath got a convenient Room to entertain ſo good a Gueſt. He that injoys a good Con<g ref="char:EOLhyphen"/>ſcience, although he be péer in the eye of the world, he is rich in the ſight of God. A good conſcience may be compared with the chiefeſt Iewels that can be ſpoken of in the world. It is like the Trée in <hi>Arabia,</hi> which is called <hi>Melt</hi> which Trée affords Food for the belly, Ray<g ref="char:EOLhyphen"/>ment for the back, and weapons of Defence for the body. It is li e the Noble pine Trée, which was never known to be rotten-hearted, although it be never ſo old, neither can any poyſonous Waſp, nor venemous Spider come néer it, nor can any Canker eating worm once come néer it. The very leaves whereof conti<g ref="char:EOLhyphen"/>nueth freſh and gréen both Summer and win<g ref="char:EOLhyphen"/>ter, ſo that the ſcorching heat of ſummer burns them not, nor can the piercing cold and nipping Froſts of winter do them any kind of harme. Again a good conſcience is like that excellent Adamant ſtone, which is ſo hard that it wil cut glaſſe, whom neither ſtroke of hammer nor heat of fire can pierce or diſſolve.</p>
+            <p>To be brief, this good Conſcience is like unto the bright ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning ſplendor of the Sunne when he is to full glory, whom no mortall eye is able to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hold; ſo farre it excéeds all other
+<pb n="7" facs="tcp:37056:7"/> Lights. On the other ſide an avid and cor<g ref="char:EOLhyphen"/>rupt conſcience is over at war within it ſelfe, and can never be at reſt ſléeping or waking, it is alwayes plodding to doe miſchief, alwayes doubting what will follow, but never intend<g ref="char:EOLhyphen"/>ing to amend. Diſſimulation and gréedy De<g ref="char:EOLhyphen"/>ſire are the Ring-leader of his Enterprize. Wrath and Revenge are his Waiting-men. Pride and Malice are babes of his bréeding, Sedition and Double dealing are the ſtaves he walks by, which when they once begin to fall, he is like to have ſuch a dangerous fall that he will be never able to recover.</p>
+            <p>This evil and guilty conſcience may be fitly compared to a Rotten hedge, placed on a péece of falſe hallow ground, which although it ſéems fair in the outſide, the inſide affords nothing but ugly Snakes, Toads, Adders, and ſuch di<g ref="char:EOLhyphen"/>perous Creatures which are ready every hour to eat, throw the very bowels of that Dam that gave them ſuck.</p>
+            <p>Such a conſcience had <hi>Pharaoh</hi> when he oppoſed himſelf againſt the Commandements of God and would not let the children of <hi>Iſrael</hi> paſſe, <hi>Exod.</hi> 5.2.</p>
+            <p>Such a Conſcience had <hi>Abſalon,</hi> when he ſought to deſtroy his own Father, <hi>Samuel</hi> 2 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8.</p>
+            <pb n="8" facs="tcp:37056:8"/>
+            <p>Such a conſcience had <hi>Jezabell</hi> the Quéen who for lucre ſake and thirſt of gain, bore falſe witneſſe againſt her righteous Neighbour <hi>Naboth,</hi> as you may read in the firſt book of <hi>Kings</hi> 19.2.</p>
+            <p>Such a Conſcience hsd <hi>Judas,</hi> which after he had betrayed the <hi>Innocent went and hang<g ref="char:EOLhyphen"/>ed himſelf.</hi>
+            </p>
+            <p>And ſuch a Conſcience had the Rich glut<g ref="char:EOLhyphen"/>ton, which denyed poor <hi>Lazarus</hi> the Crumbs that fell from his Table, and after, being in hell torments, cryed out for one drop of water to cool his Tongue, <hi>Luke</hi> 16.</p>
+            <p>By theſe Examples dear Friends, my counſell is, that you take notice, and in the Name of God the Father and the Sonne, and the holy Ghoſt, let every man ſtrive to kéep a good conſcience: for Conſcience is that Pylot that will divert you either to eternall bliſſe or everlaſting deſtruction.</p>
+            <p>The next matter that I am to put you in mind of, is to beware of Curſing, Swearing, and Blaſpheming Gods holy Name.</p>
+            <p>Our bleſſed Lord and Saviour Ieſus Chriſt in his New Teſtament, <hi>Gave us a new Com<g ref="char:EOLhyphen"/>mandem nt,</hi> which was to love one another, and withall, he gives us a ſtrict charge to
+<pb n="9" facs="tcp:37056:8"/> 
+               <hi>pray for our Enemies, and them that hate us.</hi> And furthermore he ſayes. <hi>Bleſſe them that curſe you.</hi> But how many in theſe our times do we ſée that are willing to doe good for evill: why ſurely the greater ſort of peo<g ref="char:EOLhyphen"/>ple now a dayes will rather repay evill for good, then doe good for evill, and will rather curſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Friends, then pray for their Ene<g ref="char:EOLhyphen"/>mies: but the fruits of Curſing and Swear<g ref="char:EOLhyphen"/>ing are as followeth. A Curſe procéeding out of the mouth of an ugly Creature, is like an Arrow ſhot againſt a plate of Stéele, which having no power to enter, reboundeth back and woundeth him that ſhot it unto the very heart; and as for ſwearing, be that rays out a néedleſſe Gath, diſpleaſeth God to pleaſe the Divell.</p>
+            <p>Therefore dear Chriſtians, my Counſell is to every one, That you forbear Curſing and Swearing, and all other Vngodly quali<g ref="char:EOLhyphen"/>ties whatſoever. And with the New Year begin a New Life. And as the dayes do wax every day longer than other, ſo let us Endeavour to be every day better and better, and let Pride be Exchanged into Humility, Envy into Love, and Covetouſneſſe into Bounty, and Wrath into Patience: and as
+<pb n="10" facs="tcp:37056:9"/> you begin the year well, ſo I deſire you to continue, <hi>For bleſſed are they that continue to the end.</hi>
+            </p>
+            <p>There are many, and too many that are now living, that never think of death, as may appear by their lives and converſations. Do we not ſée many Young men and others, gi<g ref="char:EOLhyphen"/>ven ſo much to Ryot, that they ſpend that in their youth, which ſhould kéep them when they are old: Who having waſted all, and ſpent their whole patrimony, are afterwards glad to <hi>Feed with the Swine, like the prodi<g ref="char:EOLhyphen"/>gall child, Luke 15.</hi>
+            </p>
+            <p>My counſell therefore is this to all men, <hi>That they take Example by wiſe Joſeph, who in the time of ſeven years plenty, laid up in ſtore for ſeven yeares of ſcarcity. By which means through the bleſſings of God, he preſerved the life of his good old Father Jacob and the reſt of his brethren, and many thouſands more beſides, which elſe had periſht through want,</hi> as you may read in the book of <hi>Geneſis.</hi>
+            </p>
+            <p>Patience is the gift of God, and Armour of Proof, He that can obtaine this gift, is ſufficiently armed againſt all the fiery darts and Tryalls, which the world, the Fleſh, and
+<pb n="11" facs="tcp:37056:9"/> the Divel can throw at him. But if the Ar<g ref="char:EOLhyphen"/>mour of patience be wanting, he is a loſt man. For no ſooner comes the ſmalleſt blaſt of per<g ref="char:EOLhyphen"/>ſecution that can be ſpoken of, but preſently it pierceth through the very Brain-pan of the Skull, and Rankles to the Heart and Reins, and at laſt it will deſtroy the whole body and indanger the Soul.</p>
+            <p>Therefore my Counſell is, That you do make patience one of your chief companions, whether your company be many or few, and to follow the Apoſtles rule, who ſaith, <hi>Be ye patient brethren untill the comming of the Lord. James 5.4.</hi>
+            </p>
+            <p>There are many that are become Market-makers for the Divel; and withall perſwades the ſimple ſort of people, <hi>that there is no hell.</hi> Others there are that deſire to know where hell is, but I think there's done deſire to go thither.</p>
+            <p>But this I am perſwaded, <hi>That they that are moſt diligent to inquire for it, may the ſooneſt know where it is.</hi> The Lord in his mercy keep all good Chriſtians from it.</p>
+            <p>Is it not Impudent madneſſe in People, to ſéek after ſuch a place which was prepa<g ref="char:EOLhyphen"/>red
+<pb n="12" facs="tcp:37056:10" rendition="simple:additions"/> for none but the Divell and his Angels, <hi>Matth. 13. And where there is nothing but weeping, and howling, and gnaſhing of teeth.</hi>
+            </p>
+            <p>Good Chriſtians, my Counſell is, that you imploy all the faculties of your Souls and Senſes to ſéek after Heaven and Heavenly things, and remember the words of our Sa<g ref="char:EOLhyphen"/>viour, who ſaith, <hi>Seek, and ye ſhall find.</hi> To which place of endleſſe joyes, the Lord that made our Souls, re<g ref="char:EOLhyphen"/>ceive and bring us to his ever<g ref="char:EOLhyphen"/>laſting Kingdom. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37056:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
